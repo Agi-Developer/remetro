@@ -1,6 +1,6 @@
 {
   "name": "remetro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack metro with react native module federation",
   "main": "index.js",
   "author": "Agilan Deenadhayalan",
@@ -8,10 +8,6 @@
   "private": false,
   "workspaces": [
     "packages/remetro"
-  ],
-  "keywords": [
-    "remetro",
-    "remetro-core"
   ],
   "scripts": {
     "start": "lerna run --scope packages/remetro --parallel start",
