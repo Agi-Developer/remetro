@@ -1,6 +1,6 @@
 {
   "name": "remetro",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "webpack metro with react native module federation",
   "main": "index.js",
   "author": "Agilan Deenadhayalan",
